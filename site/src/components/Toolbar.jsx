@@ -45,9 +45,9 @@ const Toolbar = () => {
                         </div>
                     </div>
                     <Link href="/about" className='px-4 hover:text-gray-400'>About</Link>
-                    <Link href="/use-cases" className='px-4 hover:text-gray-400'>Use Cases</Link>
-                    <Link href="/blog" className='px-4 hover:text-gray-400'>Blog</Link>
-                    <Link href="/downloads" className='px-4 hover:text-gray-400'>Downloads</Link>
+                    <Link href="/use-cases" className='px-4 hover:text-gray-400'>Portfolio</Link>
+                    {/* <Link href="/blog" className='px-4 hover:text-gray-400'>Blog</Link>
+                    <Link href="/downloads" className='px-4 hover:text-gray-400'>Downloads</Link> */}
                 </div>
             </div>
         </div>
