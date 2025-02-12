@@ -45,7 +45,7 @@ const SubscriberFrom = () => {
                         onChange={e => setData({ ...data, email: e.target.value })}
                         type="email"
                         id="UserEmail"
-                        placeholder="john@rhcp.com"
+                        placeholder="emailid@example.com"
                         className="w-full border-none focus:border-transparent p-2 bg-transparent focus:outline-none caret-white text-white sm:text-sm"
                     />
 
@@ -54,7 +54,7 @@ const SubscriberFrom = () => {
                         className="mt-1 w-full bg-brand px-6 py-3 text-sm font-bold uppercase tracking-wide text-white transition-none hover:bg-brand/90 sm:mt-0 sm:w-auto sm:shrink-0 font-inter">
 
                         {
-                            loading ? "Loading..." : "Subscribe Now"
+                            loading ? "Loading..." : "Subscribe Newsletters"
                         }
                     </button>
                 </div>

@@ -17,8 +17,7 @@ const SiteFooter = () => {
                   <div>
                     <h2 className="text-2xl font-bold text-white">Get the latest news!</h2>
                     <p className="mt-4 text-gray-500">
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse non cupiditate quae nam
-                      molestias.
+                    Stay updated with the latest in AI. Discover breakthroughs, trends, and insights that shape the future.
                     </p>
                   </div>
                 </div>
@@ -29,19 +28,19 @@ const SiteFooter = () => {
                   <p className="font-medium text-white">Services</p>
                   <ul className="mt-6 space-y-4 text-sm">
                     <li>
-                      <a href="#" className="text-offWhite_bg  transition hover:text-brand"> 1on1 Coaching </a>
+                      <a href="#" className="text-offWhite_bg  transition hover:text-brand"> AI Tool Consultation </a>
                     </li>
                     <li>
-                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> Company Review </a>
+                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> Workflow Generation </a>
                     </li>
                     <li>
-                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> Accounts Review </a>
+                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> Enterprise AI Training </a>
                     </li>
                     <li>
-                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> HR Consulting </a>
+                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> Enterprice AI Solutions </a>
                     </li>
                     <li>
-                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> SEO Optimisation </a>
+                      <a href="#" className="text-offWhite_bg transition hover:text-brand">  AI Strategy Development </a>
                     </li>
                   </ul>
                 </div>
@@ -49,13 +48,13 @@ const SiteFooter = () => {
                   <p className="font-medium text-white">Company</p>
                   <ul className="mt-6 space-y-4 text-sm">
                     <li>
-                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> About </a>
+                      <a href="/about" className="text-offWhite_bg transition hover:text-brand"> About </a>
                     </li>
                     <li>
                       <a href="#" className="text-offWhite_bg transition hover:text-brand"> Meet the Team </a>
                     </li>
                     <li>
-                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> Accounts Review </a>
+                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> Case Studies </a>
                     </li>
                   </ul>
                 </div>
@@ -86,7 +85,7 @@ const SiteFooter = () => {
                       <a href="#" className="text-offWhite_bg transition hover:text-brand"> Refund Policy </a>
                     </li>
                     <li>
-                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> Hiring Statistics </a>
+                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> Careers </a>
                     </li>
                   </ul>
                 </div>
@@ -94,10 +93,13 @@ const SiteFooter = () => {
                   <p className="font-medium text-white">Downloads</p>
                   <ul className="mt-6 space-y-4 text-sm">
                     <li>
-                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> Marketing Calendar </a>
+                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> Brochure </a>
                     </li>
                     <li>
-                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> SEO Infographics </a>
+                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> AI Tools Directory </a>
+                    </li>
+                    <li>
+                      <a href="#" className="text-offWhite_bg transition hover:text-brand"> Success Stories </a>
                     </li>
                   </ul>
                 </div>
@@ -147,7 +149,7 @@ const SiteFooter = () => {
             </div>
             <div className="mt-8 border-t border-gray-100 pt-8">
               <div className="sm:flex sm:justify-between">
-                <p className="text-xs text-gray-500">© 2022. Company Name. All rights reserved.</p>
+                <p className="text-xs text-gray-500">© 2025 Guy Knows AI. All rights reserved.</p>
                 <ul className="mt-8 flex flex-wrap justify-start gap-4 text-xs sm:mt-0 lg:justify-end">
                   <li>
                     <a href="#" className="text-gray-500 transition hover:text-brand"> Terms &amp; Conditions </a>

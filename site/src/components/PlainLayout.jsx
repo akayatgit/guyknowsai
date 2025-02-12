@@ -9,7 +9,7 @@ const PlainLayout = (props) => {
 
     return (
         <>
-            <TopBanner/>
+            {/* <TopBanner/> */}
             {props.children}
             <Toaster position="top-center" />
             <SiteFooter />
